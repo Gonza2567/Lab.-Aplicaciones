@@ -1,0 +1,22 @@
+.caja {
+background-color: rgb(68, 29, 173);
+padding: 15px;
+text-align:center ;
+border-radius:10px ;
+margin-bottom: 20px;
+width: 360px; 
+
+}
+
+
+
+div {
+background-color: aqua;
+padding: 15px;
+text-align:center ;
+border-radius:10px ;
+margin-bottom: 20px;
+width: 360px; 
+
+}
+
